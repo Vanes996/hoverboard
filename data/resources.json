@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "DevFest Trento 2019",
+  "description": "A Journey to the Cloud",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "dates": "9th November",
+  "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -14,7 +14,6 @@
   "buyTicket": "Buy ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
@@ -36,8 +35,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Trento",
+          "url": "https://gdgtrento.it/",
           "newTab": true
         },
         {
@@ -52,32 +51,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Explore Past DevFests",
-      "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "url": "",
           "newTab": true
         }
       ]
@@ -87,22 +61,22 @@
       "links": [
         {
           "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "",
           "newTab": true
         },
         {
           "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "",
           "newTab": true
         },
         {
           "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "url": "",
           "newTab": true
         },
         {
           "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
+          "url": "",
           "newTab": true
         },
         {
@@ -116,44 +90,40 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "DevFest Trento torna per la seconda edizione!",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "Dopo il grande successo dell’anno scorso, quest’anno abbiamo deciso di replicare la DevFest Trento! Si svolgerà Sabato 9 novembre 2019 al CLab Trento e sarà un grande evento che vi accompagnerà per tutta la giornata alla scoperta del mondo del Cloud: vedremo insieme le tecnologie più usate ed interessanti grazie ai CodeLab e alle talk, avremo modo di conoscerci grazie alle due pause caffè e potremo parlare con esperti del settore!"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "La “DevFest Trento: A Journey to the Cloud” ci permetterà di assistere a talk, migliorare e le nostre skill riguardo le tecnologie Cloud e conoscere nuove persone interessate al mondo tech!",
+        "label": "Ecco com'è andata lo scorso anno!"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "150"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "15+"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "label": "Speakers",
+        "number": "TBA"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "I biglietti ti permettono di accedere a tutte le attività proposte.",
     "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "notAvailableYet": "Not available yet"
   },
   "partnersBlock": {
     "title": "Partners",
@@ -166,24 +136,6 @@
     },
     "toast": "We will contact you soon!"
   },
-  "featuredVideos": {
-    "title": "DFUA'16 featured videos",
-    "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-    }
-  },
-  "blog": {
-    "published": "Published",
-    "suggested": "Up next"
-  },
-  "latestPostsBlock": {
-    "title": "The latest news",
-    "callToAction": {
-      "label": "View all stories",
-      "link": "/blog/"
-    }
-  },
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -192,7 +144,7 @@
   "speakersBlock": {
     "title": "Speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Conosci tutti gli ospiti!",
       "link": "/speakers/"
     }
   },
@@ -204,11 +156,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#devfestTrento2018 highlights",
+    "description": "Ecco com'è andata lo scorso anno!",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Guarda le foto",
+      "link": "TO DO: METTI LINK A PAGINA FOTO"
     }
   },
   "mapBlock": {
@@ -216,8 +168,8 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Stiamo cercando speakers... La nostra Call è aperta!",
+      "label": "Prenotati!"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -265,15 +217,15 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://gdgtrento.it/' target='_blank'>GDG Trento</a> è felice di presentare la DevFest 2019: A Journey to the Cloud.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Groups (GDGs) are communities of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "Cos'è il GDG?",
+        "description": "I Google Developers Groups (GDGs) sono comunità di volontari che si impegnano a creare progetti ed eventi interessanti e presentare tutto ciò che riguarda il mondo delle tecnologie di Google.",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
@@ -281,8 +233,8 @@
         }
       },
       {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "title": "Cos'è una DevFest?",
+        "description": "Le DevFests sono eventi organizzati dalle comunità dei vari Google Developers Groups nel mondo.",
         "callToAction": {
           "label": "Read more",
           "link": "https://devfest.withgoogle.com/",

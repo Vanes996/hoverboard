@@ -1,27 +1,32 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Trento",
+    "twitter": "gdgtrento",
+    "blog": "da togliere",
+    "url": "https://gdgtrento.it/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest19",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest17",
+  "hashtag": "DevFest19",
   "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
       "permalink": "/",
       "label": "Home"
+    },
+        {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
     },
     {
       "route": "speakers",
@@ -37,34 +42,21 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "A Journey to the Cloud",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
     },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Read stories from our team",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
-    },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Conosci i nostri speakers.",
+      "description": "Conosci i nostri speakers: verranno annunciati su questa pagina! Resta connesso per non perderti nessuna novità.",
       "background": {
         "color": "#FFF"
       },
@@ -113,20 +105,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Contamination Lab (CLab)",
+    "city": "Trento",
+    "short": "CLab Trento, Italy",
+    "address": "Piazza di Fiera, 4, 38122, Trento TN",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 46.064224,
+      "longitude": 11.124102,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 46,
+      "longitude": 11
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Descrizione clab?"
   },
   "mediaQueries": {
     "xs": {
@@ -148,23 +140,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "rimuovere meetup"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/GDGTrento/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "url per twitter"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "..."
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "..."
       }
     ],
     "share": [
@@ -207,9 +199,6 @@
     "schedule": {
       "itemsCount": 2
     },
-    "blog": {
-      "itemsCount": 3
-    },
     "speakers": {
       "itemsCount": 4
     },
@@ -217,7 +206,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 2
     }
   }
 }

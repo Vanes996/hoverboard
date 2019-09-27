@@ -32,7 +32,7 @@
       }
 
       .filter-group {
-        margin-bottom: 24px;
+        margin-bottom: 32px;
       }
 
       .filter-title {
@@ -42,7 +42,7 @@
       .tag {
         margin-right: 8px;
         display: inline-flex;
-        font-size: 15px;
+        font-size: 13px;
         cursor: pointer;
         color: var(--color);
         text-transform: capitalize;
@@ -124,10 +124,6 @@
             <h3 class="filter-title">[[filter.title]]</h3>
             <template is="dom-repeat" items="[[filter.items]]" as="item">
               <div
-                layout
-                horizontal
-                inline
-                center
                 class="tag"
                 style$="--color: [[getVariableColor(item, 'primary-text-color')]]"
                 filter-key$="[[filter.key]]"
