@@ -108,7 +108,9 @@
       }
 
       _subscribe() {
-        let userData = {};
+
+        window.open('blog/posts/c4p/');
+       /* let userData = {};
 
         if (this.user.signedIn) {
           const fullNameSplit = this.user.displayName.split(' ');
@@ -135,7 +137,7 @@
 
       _subscribeAction(data) {
         this.dispatch(subscribeActions.subscribe(data));
-      }
+      }*/
     }
 
     window.customElements.define(SubscribeBlock.is, SubscribeBlock);
